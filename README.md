@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @5UB45H
 - 👀 I’m interested in web technologies, web security,etc.
-- 🌱 I’m also web3 security enthusiast.
+- 🌱 I’m also web3 enthusiast.
 
 <!---
 5UB45H/5UB45H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
